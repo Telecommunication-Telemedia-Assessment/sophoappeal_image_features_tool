@@ -37,6 +37,7 @@ stg7 2023
 
 ## Hint
 Parts of the features are taken from [`quat`](https://github.com/Telecommunication-Telemedia-Assessment/quat).
+And are also included in [`avt_ai_images`](https://github.com/Telecommunication-Telemedia-Assessment/avt_ai_images).
 
 
 ## Acknowledgments
