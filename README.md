@@ -6,9 +6,9 @@ Please use the main repository as starting point.
 
 This repository is part of the DFG project [Sophoappeal (437543412)](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik/forschung/dfg-projekt-sophoappeal), it contains images and analysis scripts.
 
+This tool is used to generate image_features.json in [`sophoappeal_images`](https://github.com/Telecommunication-Telemedia-Assessment/sophoappeal_images).
 
 ## Requirements
-
 
 * python3, python3-pip, git, imagemagick, wget
 
@@ -34,6 +34,7 @@ optional arguments:
 
 stg7 2023
 ``
+
 
 ## Hint
 Parts of the features are taken from [`quat`](https://github.com/Telecommunication-Telemedia-Assessment/quat).
