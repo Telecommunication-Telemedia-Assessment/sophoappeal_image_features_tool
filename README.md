@@ -33,7 +33,7 @@ optional arguments:
                         file to store predictions (default: features.json)
 
 stg7 2023
-``
+```
 
 
 ## Hint
